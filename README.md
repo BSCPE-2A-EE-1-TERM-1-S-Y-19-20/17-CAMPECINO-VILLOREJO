@@ -6,7 +6,7 @@ Fundamentals of Electrical Circuits ᜋᜅ ᜊᜆᜌᜈ᜔ ᜐ ᜇᜄᜒᜆ᜔�
 <br>
 DELTA-TO-WYE RESISTOR READING USING ARDUINO
 
-[![INSERT YOUR FRITZING PICTURE HERE]()]()
+[![INSERT YOUR FRITZING PICTURE HERE](https://github.com/BSCPE-2A-EE-1-TERM-1-S-Y-19-20/17-CAMPECINO-VILLOREJO/blob/master/MIDTERM-PROJECT.png]()
 
 ## FINAL-PROJECT:
 <br>
